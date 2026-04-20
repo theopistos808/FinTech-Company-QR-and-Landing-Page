@@ -1,15 +1,15 @@
 {
-  "base_url": "https://your-project-name.vercel.app",
+  "base_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app",
   "companies": [
     {
       "title": "MoMo",
       "slug": "momo",
       "location": "2007 | HO CHI MINH CITY, VIETNAM",
-      "overview": "MoMo is Vietnam\u2019s premier digital wallet and super-app, offering a comprehensive suite of services ranging from peer-to-peer transfers and bill payments to gaming and travel bookings.",
+      "overview": "MoMo is Vietnam’s premier digital wallet and super-app, offering a comprehensive suite of services ranging from peer-to-peer transfers and bill payments to gaming and travel bookings.",
       "page_number": 1,
-      "url": "https://your-project-name.vercel.app/companies/momo/",
+      "page_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app/companies/momo/",
+      "company_site": "https://www.momo.vn/",
       "image_path": "/assets/companies/jpg/momo.jpg",
-      "qr_path": "/assets/companies/qr/momo.png",
       "pdf_path": "/assets/companies/pdf/momo.pdf"
     },
     {
@@ -18,9 +18,9 @@
       "location": "2009 | KARACHI, PAKISTAN",
       "overview": "Launched initially as a money transfer service, Easypaisa has evolved into Pakistan's top digital lifestyle app and branchless banking service.",
       "page_number": 2,
-      "url": "https://your-project-name.vercel.app/companies/easypaisa/",
+      "page_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app/companies/easypaisa/",
+      "company_site": "https://easypaisa.com.pk/",
       "image_path": "/assets/companies/jpg/easypaisa.jpg",
-      "qr_path": "/assets/companies/qr/easypaisa.png",
       "pdf_path": "/assets/companies/pdf/easypaisa.pdf"
     },
     {
@@ -29,9 +29,9 @@
       "location": "2016 | ISTANBUL, TURKEY",
       "overview": "Papara is a Turkish financial technology company providing a borderless, fast, and free financial super-app and prepaid cards for the unbanked and digital natives.",
       "page_number": 3,
-      "url": "https://your-project-name.vercel.app/companies/papara/",
+      "page_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app/companies/papara/",
+      "company_site": "https://www.papara.com/en/",
       "image_path": "/assets/companies/jpg/papara.jpg",
-      "qr_path": "/assets/companies/qr/papara.png",
       "pdf_path": "/assets/companies/pdf/papara.pdf"
     },
     {
@@ -40,9 +40,9 @@
       "location": "2014 | SYDNEY, AUSTRALIA",
       "overview": "Afterpay is a leading BNPL platform that allows customers to pay for their purchases in four interest- free installments. It was acquired by Block (formerly Square) in 2022.",
       "page_number": 4,
-      "url": "https://your-project-name.vercel.app/companies/afterpay/",
+      "page_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app/companies/afterpay/",
+      "company_site": "https://www.afterpay.com/en-US",
       "image_path": "/assets/companies/jpg/afterpay.jpg",
-      "qr_path": "/assets/companies/qr/afterpay.png",
       "pdf_path": "/assets/companies/pdf/afterpay.pdf"
     },
     {
@@ -51,9 +51,9 @@
       "location": "2014 | PANGYO, SOUTH KOREA",
       "overview": "KakaoPay is the digital wallet and financial services arm of Kakao, fully integrated into South Korea's ubiquitous messaging app, KakaoTalk.",
       "page_number": 5,
-      "url": "https://your-project-name.vercel.app/companies/kakaopay/",
+      "page_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app/companies/kakaopay/",
+      "company_site": "https://www.kakaopay.com/",
       "image_path": "/assets/companies/jpg/kakaopay.jpg",
-      "qr_path": "/assets/companies/qr/kakaopay.png",
       "pdf_path": "/assets/companies/pdf/kakaopay.pdf"
     },
     {
@@ -62,9 +62,9 @@
       "location": "2003 | BUENOS AIRES, ARGENTINA",
       "overview": "Initially the payment solution for the Mercado Libre marketplace, it has grown into Latin America's largest fintech platform, offering wallets, credit, and merchant services.",
       "page_number": 6,
-      "url": "https://your-project-name.vercel.app/companies/mercado-pago/",
+      "page_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app/companies/mercado-pago/",
+      "company_site": "https://www.mercadopago.com.ar/",
       "image_path": "/assets/companies/jpg/mercado-pago.jpg",
-      "qr_path": "/assets/companies/qr/mercado-pago.png",
       "pdf_path": "/assets/companies/pdf/mercado-pago.pdf"
     },
     {
@@ -73,9 +73,9 @@
       "location": "2018 | KAMPALA, UGANDA / SAN FRANCISCO",
       "overview": "Chipper Cash offers free, cross-border mobile money transfers across several African countries, along with crypto trading and virtual cards.",
       "page_number": 7,
-      "url": "https://your-project-name.vercel.app/companies/chipper-cash/",
+      "page_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app/companies/chipper-cash/",
+      "company_site": "https://www.chippercash.com/",
       "image_path": "/assets/companies/jpg/chipper-cash.jpg",
-      "qr_path": "/assets/companies/qr/chipper-cash.png",
       "pdf_path": "/assets/companies/pdf/chipper-cash.pdf"
     },
     {
@@ -84,9 +84,9 @@
       "location": "2015 | CAIRO, EGYPT",
       "overview": "Paymob is a leading omnichannel payment infrastructure enabler in the MENAP region, building APIs for online and offline payment acceptance.",
       "page_number": 8,
-      "url": "https://your-project-name.vercel.app/companies/paymob/",
+      "page_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app/companies/paymob/",
+      "company_site": "https://paymob.com/",
       "image_path": "/assets/companies/jpg/paymob.jpg",
-      "qr_path": "/assets/companies/qr/paymob.png",
       "pdf_path": "/assets/companies/pdf/paymob.pdf"
     },
     {
@@ -95,9 +95,9 @@
       "location": "2007 | NAIROBI, KENYA",
       "overview": "M-Pesa is a pioneering mobile phone-based money transfer, financing, and microfinancing service that operates over standard SMS/USSD networks.",
       "page_number": 9,
-      "url": "https://your-project-name.vercel.app/companies/m-pesa/",
+      "page_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app/companies/m-pesa/",
+      "company_site": "https://www.safaricom.co.ke/m-pesa",
       "image_path": "/assets/companies/jpg/m-pesa.jpg",
-      "qr_path": "/assets/companies/qr/m-pesa.png",
       "pdf_path": "/assets/companies/pdf/m-pesa.pdf"
     },
     {
@@ -106,9 +106,9 @@
       "location": "2016 | MUMBAI, INDIA",
       "overview": "UPI is an instant real-time payment system developed by the National Payments Corporation of India, facilitating inter-bank peer-to-peer and person-to-merchant transactions seamlessly.",
       "page_number": 10,
-      "url": "https://your-project-name.vercel.app/companies/upi/",
+      "page_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app/companies/upi/",
+      "company_site": "https://www.npci.org.in/what-we-do/upi/product-overview/",
       "image_path": "/assets/companies/jpg/upi.jpg",
-      "qr_path": "/assets/companies/qr/upi.png",
       "pdf_path": "/assets/companies/pdf/upi.pdf"
     },
     {
@@ -117,9 +117,9 @@
       "location": "2009 | LAGOS, NIGERIA",
       "overview": "Paga is a Nigerian mobile payment company that allows users to transfer money electronically and make payments through their mobile devices or through a massive network of physical agents.",
       "page_number": 11,
-      "url": "https://your-project-name.vercel.app/companies/paga/",
+      "page_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app/companies/paga/",
+      "company_site": "https://www.paga.com/",
       "image_path": "/assets/companies/jpg/paga.jpg",
-      "qr_path": "/assets/companies/qr/paga.png",
       "pdf_path": "/assets/companies/pdf/paga.pdf"
     },
     {
@@ -128,9 +128,9 @@
       "location": "2018 | SINGAPORE",
       "overview": "The financial arm of Southeast Asia's top super-app, offering GrabPay, insurance, lending, and wealth management services across multiple SEA countries.",
       "page_number": 12,
-      "url": "https://your-project-name.vercel.app/companies/grab-financial/",
+      "page_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app/companies/grab-financial/",
+      "company_site": "https://www.grab.com/sg/grab-financial-group/",
       "image_path": "/assets/companies/jpg/grab-financial.jpg",
-      "qr_path": "/assets/companies/qr/grab-financial.png",
       "pdf_path": "/assets/companies/pdf/grab-financial.pdf"
     },
     {
@@ -139,9 +139,9 @@
       "location": "2015 | ABU DHABI, UAE",
       "overview": "ADGM is an international financial center and free zone in Abu Dhabi that operates with its own independent civil and commercial laws based on English common law.",
       "page_number": 13,
-      "url": "https://your-project-name.vercel.app/companies/adgm/",
+      "page_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app/companies/adgm/",
+      "company_site": "https://www.adgm.com/",
       "image_path": "/assets/companies/jpg/adgm.jpg",
-      "qr_path": "/assets/companies/qr/adgm.png",
       "pdf_path": "/assets/companies/pdf/adgm.pdf"
     },
     {
@@ -150,20 +150,20 @@
       "location": "2015 | LONDON, UK",
       "overview": "Revolut is a global financial super-app that started by offering multi-currency cards with cheap exchange rates and has expanded into crypto, stock trading, and full banking services.",
       "page_number": 14,
-      "url": "https://your-project-name.vercel.app/companies/revolut/",
+      "page_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app/companies/revolut/",
+      "company_site": "https://www.revolut.com/",
       "image_path": "/assets/companies/jpg/revolut.jpg",
-      "qr_path": "/assets/companies/qr/revolut.png",
       "pdf_path": "/assets/companies/pdf/revolut.pdf"
     },
     {
       "title": "Nubank",
       "slug": "nubank",
-      "location": "2013 | S\u00c3O PAULO, BRAZIL",
+      "location": "2013 | SÃO PAULO, BRAZIL",
       "overview": "Nubank is one of the world's largest independent digital banking platforms, originally launching with a no-fee purple credit card controlled entirely via a mobile app.",
       "page_number": 15,
-      "url": "https://your-project-name.vercel.app/companies/nubank/",
+      "page_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app/companies/nubank/",
+      "company_site": "https://nubank.com.br/en/",
       "image_path": "/assets/companies/jpg/nubank.jpg",
-      "qr_path": "/assets/companies/qr/nubank.png",
       "pdf_path": "/assets/companies/pdf/nubank.pdf"
     },
     {
@@ -172,9 +172,9 @@
       "location": "2019 | MEXICO CITY, MEXICO",
       "overview": "Klar is a Mexican financial technology company offering a 100% digital, transparent, and free alternative to traditional credit cards and debit accounts.",
       "page_number": 16,
-      "url": "https://your-project-name.vercel.app/companies/klar/",
+      "page_url": "https://fintech-earth-day-poster-9yaec2f95-fin-tech-at-iu.vercel.app/companies/klar/",
+      "company_site": "https://www.klar.mx/",
       "image_path": "/assets/companies/jpg/klar.jpg",
-      "qr_path": "/assets/companies/qr/klar.png",
       "pdf_path": "/assets/companies/pdf/klar.pdf"
     }
   ]

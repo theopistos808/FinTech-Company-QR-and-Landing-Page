@@ -123,9 +123,7 @@ h1 {
 .company-location,
 .detail-location,
 .hero-stat p,
-.search-wrap span,
-.qr-panel p,
-.qr-panel span {
+.search-wrap span {
   color: var(--muted);
 }
 
@@ -354,10 +352,7 @@ h2 {
 }
 
 .detail-hero {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 220px;
-  gap: 22px;
-  align-items: start;
+  display: block;
 }
 
 .detail-hero h1 {
@@ -399,28 +394,6 @@ h2 {
 .button-light {
   background: rgba(255, 251, 245, 0.92);
   border: 1px solid var(--line);
-}
-
-.qr-panel {
-  display: grid;
-  gap: 10px;
-  justify-items: center;
-  padding: 18px;
-  border: 1px solid var(--line);
-  border-radius: 22px;
-  background: rgba(255, 251, 245, 0.88);
-}
-
-.qr-panel img {
-  width: 100%;
-  max-width: 168px;
-  border-radius: 14px;
-}
-
-.qr-panel p,
-.qr-panel span {
-  margin: 0;
-  text-align: center;
 }
 
 .detail-image-wrap {

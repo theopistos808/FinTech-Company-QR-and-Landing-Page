@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Where is FinTech Changing Lives</title>
+    <meta
+      name="description"
+      content="A FinTech @ IU gallery of one-page company spotlights showing where financial technology is changing lives."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/assets/site.css" />
+  </head>
+  <body>
+    <main class="page-shell">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Global one-pager library</p>
+          <h1>Where is FinTech Changing Lives</h1>
+          <p class="hero-kicker">FinTech @ IU</p>
+          <p class="hero-subtitle">A global scan of companies using financial technology to widen access, improve trust, and reshape everyday life.</p>
+        </div>
+        <div class="hero-stat">
+          <span>Company atlas</span>
+          <strong id="company-count">16</strong>
+          <p>One-page spotlights, one QR path each, ready for the web.</p>
+        </div>
+      </section>
+
+      <section class="intro-grid">
+        <p>Each company opens to its own detail page with the original one-pager, a downloadable single-page PDF, and a QR code that points directly to that company on the site.</p>
+        <p class="intro-note">Modern, static, and Vercel-friendly by design.</p>
+      </section>
+
+      <section class="gallery-header">
+        <div>
+          <p class="eyebrow">Explore</p>
+          <h2>Companies</h2>
+        </div>
+        <label class="search-wrap" for="company-search">
+          <span>Search by company or location</span>
+          <input id="company-search" type="search" placeholder="Start typing..." />
+        </label>
+      </section>
+
+      <section id="company-grid" class="company-grid" aria-live="polite"></section>
+    </main>
+
+    <template id="company-card-template">
+      <article class="company-card">
+        <a class="company-link" data-role="link">
+          <div class="company-card-copy">
+            <p class="company-location" data-role="location"></p>
+            <h3 data-role="title"></h3>
+            <p class="company-overview" data-role="overview"></p>
+            <span class="company-cta">Open company page</span>
+          </div>
+          <div class="company-thumb-wrap">
+            <img data-role="image" alt="" loading="lazy" />
+          </div>
+        </a>
+      </article>
+    </template>
+
+    <script src="/assets/site.js" defer></script>
+  </body>
+</html>

@@ -17,7 +17,7 @@ Static Vercel-ready site for the `Company One Pagers.pdf` deck.
 Run this after you know the final public domain:
 
 ```bash
-python3 scripts/build_site.py --base-url "https://your-project-name.vercel.app"
+python3 scripts/build_site.py --base-url "https://fintech-earth-day-poster.vercel.app/"
 ```
 
 That updates:
